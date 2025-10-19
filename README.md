@@ -29,6 +29,9 @@ Primera versión del sistema de matrícula escolar. Permite registrar y listar a
 ![Menú Principal](Entrega1/images/home.png)
 ![Registro Docente](Entrega1/images/RegDocente.png)
 
+🗄️ *Diagrama base de datos:*
+![Registro Docente](Entrega1/images/db.png)
+
 ---
 
 ### 🧠 **Entrega 2 — Aplicaciones Web y Patrones de Diseño**
@@ -43,9 +46,11 @@ Primera versión del sistema de matrícula escolar. Permite registrar y listar a
 **Descripción:**  
 Segunda versión con una arquitectura basada en el patrón **MVC**. Se incorporan **JSTL** y **Expression Language** para separar la lógica del negocio de la vista.
 
-📸 *Ejemplo de interfaz:*  
+📸 *Interfaz de usuario:*
 ![Menú Principal](Entrega2/images/home.png)
 ![Gestión Matrículas](Entrega2/images/GesMatriculas.png)
+
+🗄️ *Diagrama base de datos:*
 ![Diagrama base de datos](Entrega2/images/db.png)
 
 ---
@@ -64,7 +69,7 @@ Segunda versión con una arquitectura basada en el patrón **MVC**. Se incorpora
 Versión final del proyecto integrando **JSF** y **RESTful APIs**.  
 Incluye un frontend dinámico y moderno con BootFaces y la implementación de endpoints REST para operaciones CRUD.
 
-📸 *Ejemplo de interfaz:*  
+📸 *Interfaz de usuario:*
 ![Menú Principal](Entrega3/images/home.png)
 ![Gestión Matrículas](Entrega3/images/GesMatriculas.png)
 ![Asignación de curso a Docente](Entrega3/images/AsiCursosDocente.png)
@@ -72,6 +77,8 @@ Incluye un frontend dinámico y moderno con BootFaces y la implementación de en
 ![Gestión Docentes](Entrega3/images/GesDocentes.png)
 ![Gestión Alumnos](Entrega3/images/GesAlumnos.png)
 ![Gestión Responsables](Entrega3/images/GesResponsables.png)
+
+🗄️ *Diagrama base de datos:*
 ![Diagrama base de datos](Entrega3/images/ActualBD.png)
 
 ---
