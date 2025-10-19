@@ -29,8 +29,6 @@ Primera versión del sistema de matrícula escolar. Permite registrar y listar a
 ![Menú Principal](Entrega1/images/home.png)
 *Registro Docente*
 ![Registro Docente](Entrega1/images/RegDocente.png)
-*Diagrama base de datos*
-![Diagrama base de datos](Entrega1/images/db.png)
 
 ---
 
