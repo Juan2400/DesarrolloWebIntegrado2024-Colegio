@@ -1,0 +1,27 @@
+# === Build y dependencias ===
+target/
+*.log
+*.tmp
+
+# === IDEs ===
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+
+# === Archivos del sistema ===
+.DS_Store
+Thumbs.db
+
+# === Archivos de entorno ===
+.env
+Entrega1/.env
+Entrega2/.env
+Entrega3/.env
+
+# === Archivos temporales o de prueba ===
+*.bak
+*.old
+*.swp
