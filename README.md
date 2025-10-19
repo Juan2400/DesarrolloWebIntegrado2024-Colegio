@@ -86,7 +86,7 @@ Incluye un frontend dinámico y moderno con BootFaces y la implementación de en
 ## 🗄️ Base de datos
 
 La base de datos se encuentra en el directorio `/database`.  
-El sistema utiliza **MySQL**, y las credenciales deben configurarse en un archivo `.env` con el siguiente formato:
+El sistema utiliza **MySQL**, y las credenciales deben configurarse en un archivo `.env` en la raíz de cada proyecto con el siguiente formato:
 
 ```env
 DB_HOST=localhost
