@@ -24,10 +24,9 @@ Cada carpeta contiene el código fuente, recursos estáticos, y archivos de conf
 **Descripción:**  
 Primera versión del sistema de matrícula escolar. Permite registrar y listar alumnos, gestionando la conexión a base de datos mediante JDBC y DAOs.
 
-#### 📸 Interfaz de usuario:
-*Menú Principal*
+📸 *Interfaz de usuario:*
+
 ![Menú Principal](Entrega1/images/home.png)
-*Registro Docente*
 ![Registro Docente](Entrega1/images/RegDocente.png)
 
 ---
@@ -45,9 +44,9 @@ Primera versión del sistema de matrícula escolar. Permite registrar y listar a
 Segunda versión con una arquitectura basada en el patrón **MVC**. Se incorporan **JSTL** y **Expression Language** para separar la lógica del negocio de la vista.
 
 📸 *Ejemplo de interfaz:*  
-![Menú Principal](Entrega1/images/home.png)
-![Gestión Matrículas](Entrega1/images/GesMatriculas.png)
-![Diagrama base de datos](Entrega1/images/db.png)
+![Menú Principal](Entrega2/images/home.png)
+![Gestión Matrículas](Entrega2/images/GesMatriculas.png)
+![Diagrama base de datos](Entrega2/images/db.png)
 
 ---
 
@@ -66,14 +65,14 @@ Versión final del proyecto integrando **JSF** y **RESTful APIs**.
 Incluye un frontend dinámico y moderno con BootFaces y la implementación de endpoints REST para operaciones CRUD.
 
 📸 *Ejemplo de interfaz:*  
-![Menú Principal](Entrega1/images/home.png)
-![Gestión Matrículas](Entrega1/images/GesMatriculas.png)
-![Asignación de curso a Docente](Entrega1/images/AsiCursosDocente.png)
-![Gestión Cursos](Entrega1/images/GesCursos.png)
-![Gestión Docentes](Entrega1/images/GesDocentes.png)
-![Gestión Alumnos](Entrega1/images/GesAlumnos.png)
-![Gestión Responsables](Entrega1/images/GesResponsables.png)
-![Diagrama base de datos](Entrega1/images/ActualBD.png)
+![Menú Principal](Entrega3/images/home.png)
+![Gestión Matrículas](Entrega3/images/GesMatriculas.png)
+![Asignación de curso a Docente](Entrega3/images/AsiCursosDocente.png)
+![Gestión Cursos](Entrega3/images/GesCursos.png)
+![Gestión Docentes](Entrega3/images/GesDocentes.png)
+![Gestión Alumnos](Entrega3/images/GesAlumnos.png)
+![Gestión Responsables](Entrega3/images/GesResponsables.png)
+![Diagrama base de datos](Entrega3/images/ActualBD.png)
 
 ---
 
