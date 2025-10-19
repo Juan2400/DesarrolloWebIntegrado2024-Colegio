@@ -24,12 +24,12 @@ Cada carpeta contiene el código fuente, recursos estáticos, y archivos de conf
 **Descripción:**  
 Primera versión del sistema de matrícula escolar. Permite registrar y listar alumnos, gestionando la conexión a base de datos mediante JDBC y DAOs.
 
-📸 *Interfaz de usuario:*
-#### Menú Principal
+#### 📸 Interfaz de usuario:
+*Menú Principal*
 ![Menú Principal](Entrega1/images/home.png)
-#### Registro Docente
+*Registro Docente*
 ![Registro Docente](Entrega1/images/RegDocente.png)
-#### Diagrama base de datos
+*Diagrama base de datos*
 ![Diagrama base de datos](Entrega1/images/db.png)
 
 ---
